@@ -9,3 +9,13 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.intro {
+    position: relative;
+    /*height: 40vh; not doing anything*/
+    width: 30vw;
+    margin: 0 auto;
+}
+/*.header {
+    height: 0vh;
+} (not really doing anything)*/
