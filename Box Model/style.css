@@ -12,9 +12,23 @@ body {
 
 .intro {
     position: relative;
-    /*height: 40vh; not doing anything*/
-    width: 30vw;
+    height: 70vh;
+    width: 50vw;
     margin: 0 auto;
+}
+
+ul {
+    height: 100vh;
+    text-align: center;
+    letter-spacing: 4px;
+    line-height: 30px;
+    font-family: 'Merienda', cursive;
+    color: white;
+    font-weight: 700;
+}
+
+li {
+    text-transform: uppercase;
 }
 /*.header {
     height: 0vh;
