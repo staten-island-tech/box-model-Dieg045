@@ -25,6 +25,7 @@ ul {
     font-family: 'Merienda', cursive;
     color: white;
     font-weight: 700;
+    list-style: none;
 }
 
 li {
