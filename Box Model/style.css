@@ -15,6 +15,7 @@ body {
     height: 70vh;
     width: 50vw;
     margin: 0 auto;
+    font-family: 'El Messiri', sans-serif;
 }
 
 ul {
@@ -31,6 +32,17 @@ ul {
 li {
     text-transform: uppercase;
 }
-/*.header {
-    height: 0vh;
-} (not really doing anything)*/
+
+#rosa {
+    color: turquoise;
+}
+
+li:last-child {
+    color: goldenrod;
+}
+
+.my-images {
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
