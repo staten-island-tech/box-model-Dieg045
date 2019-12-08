@@ -1,78 +1,77 @@
 html {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-image: url(Pictures/Galaxy_Space.jpg);
-    background-size: cover;
-    background-position: center;
+  background-image: url(Pictures/Galaxy_Space.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .intro {
-    /*position: relative;*/
-    height: 70vh;
-    width: 50vw;
-    margin: 0 auto;
-    font-family: 'El Messiri', sans-serif;
-    text-align: center;
+  height: 70vh;
+  width: 50vw;
+  margin: 0 auto;
+  font-family: "El Messiri", sans-serif;
+  text-align: center;
 }
 
 h1 {
-    font-size: 3rem;
+  font-size: 3rem;
 }
 
 h2 {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 ul {
-    height: 20vh;
-    letter-spacing: 4px;
-    line-height: 30px;
-    font-family: 'Merienda', cursive;
-    color: white;
-    font-weight: 700;
-    list-style: none;
+  height: 20vh;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-family: "Merienda", cursive;
+  color: white;
+  font-weight: 700;
+  list-style: none;
 }
 
 li {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 #rosa {
-    color: turquoise;
+  color: turquoise;
 }
 
 li:last-child {
-    color: goldenrod;
+  color: goldenrod;
 }
 
 .image-box {
-    position: relative;
-    height: 50vh;
+  position: relative;
+  height: 50vh;
 }
 
 .my-images {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 #egg {
-    height: 40vh;
+  height: 40vh;
 }
 
 #yay {
-    height: 10vh;
+  height: 10vh;
 }
 
 .cosmos {
-    height: 20rem;
-    position: relative;
-    bottom: 35vh;
-    left: 75vw;
-    opacity: .2;
+  height: 20rem;
+  position: relative;
+  bottom: 35vh;
+  left: 75vw;
+  opacity: 0.2;
 }
